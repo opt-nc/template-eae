@@ -19,6 +19,9 @@
 
 ## Savoirs
 
+- ...
+- ...
+
 
 ### Savoir faire
 
