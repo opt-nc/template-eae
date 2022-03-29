@@ -42,3 +42,9 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 - [Site institutionnel DRHFPNC](https://drhfpnc.gouv.nc/)
 - [Évaluation et avancement](https://drhfpnc.gouv.nc/carriere-des-fonctionnaires/evaluation-et-avancement)
 - [Documents et liens utiles pour l'EAE](https://drhfpnc.gouv.nc/formulaires-agents/entretien-annuel-dechange)
+
+# 💡 Possibilités ouvertes
+
+- Via la CI, compiler l'EAE via [`pandoc`](https://pandoc.org/)
+- Suivre et planifier les EAEs via l'activité des modifications et suivre sur un projet GH
+- Production de métiques sur un EAE
