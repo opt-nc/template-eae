@@ -48,3 +48,4 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 - Via la CI, compiler l'EAE via [`pandoc`](https://pandoc.org/)
 - Suivre et planifier les EAEs via l'activité des modifications et suivre sur un projet GH
 - Production de métiques sur un EAE
+- Automatisation/ntifications par outils cloud et webhooks (push d'un draft, notif de chnagement via mail ou Teams,...)
