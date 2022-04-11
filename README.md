@@ -49,3 +49,47 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 - Suivre et planifier les EAEs via l'activité des modifications et suivre sur un projet GH
 - Production de métiques sur un EAE
 - Automatisation/ntifications par outils cloud et webhooks (push d'un draft, notif de chnagement via mail ou Teams,...)
+
+# 📖 Compiler en ePub/pdf
+
+## Publish en `ePub`
+
+```
+pandoc -o mon-EAE.epub title.txt \
+  00_identification_agent.md \
+  01_entete.md \
+  02_resume.md \
+  03_fiche-de-poste.md \
+  04_tenue-maitrise-du-poste.md \
+  05_appreciation_competences.md \
+  06_autoevaluation.md \
+  07_plan-action.md \
+  08_evolution-profressionnelle.md \
+  09_synthese-evaluation.md \
+  10_avancement.md
+```
+
+
+## Export `pdf`
+
+Prerequis : 
+
+```
+sudo apt-get install texlive-full
+```
+puis : 
+
+```
+pandoc --toc --pdf-engine=xelatex -o mon-EAE.pdf title.txt  \
+  00_identification_agent.md \
+  01_entete.md \
+  02_resume.md \
+  03_fiche-de-poste.md \
+  04_tenue-maitrise-du-poste.md \
+  05_appreciation_competences.md \
+  06_autoevaluation.md \
+  07_plan-action.md \
+  08_evolution-profressionnelle.md \
+  09_synthese-evaluation.md \
+  10_avancement.md
+```
