@@ -1,16 +1,95 @@
-# Ecarts observés avec les attendus de la fiche de poste
+# TENUE ET MAITRISE DU POSTE (7)
 
-- Ecart 1
-- Ecart 2
+## Ecarts observés avec les attendus de la fiche de poste
 
-# 🎯 Objectifs
+1. Ecart
+2. Ecart
+
+## 🎯 Objectifs
 
 👉 _Rappel des objectifs professionnels et des objectifs de progrès individuels fixés et résultats obtenus (8)_
 
-## 1️⃣ Objectif 
+### Objectif 1
 
-### Objectifs professionnels
+#### Objectifs professionnels
 
+- ...
+- ...
+
+#### Résultats
+
+- [ ] ...
+- [ ] ...
+
+#### Commentaires
+
+
+### Objectif 2
+
+#### Objectifs professionnels
+
+- ...
+- ...
+
+#### Résultats
+
+- [ ] ...
+- [ ] ...
+
+#### Commentaires
+
+
+### Objectif 3
+
+#### Objectifs professionnels
+
+- ...
+- ...
+
+#### Résultats
+
+- [ ] ...
+- [ ] ...
+
+#### Commentaires
+
+
+### Objectif 4
+
+#### Objectifs professionnels
+
+- ...
+- ...
+
+#### Résultats
+
+- [ ] ...
+- [ ] ...
+
+#### Commentaires
+
+
+### Objectif 5
+
+#### Objectifs professionnels
+
+- ...
+- ...
+
+#### Résultats
+
+- [ ] ...
+- [ ] ...
+
+#### Commentaires
+
+
+
+## Progrés individuels
+
+### Objectifs de progrès individuels
+
+- ...
 - ...
 - ...
 
@@ -18,84 +97,7 @@
 
 - [ ] ...
 - [ ] ...
-
-### Commentaires
-
-
-## 2️⃣ Objectif 
-
-### Objectifs professionnels
-
-- ...
-- ...
-
-### Résultats
-
-- [ ] ...
 - [ ] ...
 
 ### Commentaires
-
-
-
-## 3️⃣ Objectif 
-
-### Objectifs professionnels
-
-- ...
-- ...
-
-### Résultats
-
-- [ ] ...
-- [ ] ...
-
-### Commentaires
-
-
-
-## 4️⃣ Objectif 
-
-### Objectifs professionnels
-
-- ...
-- ...
-
-### Résultats
-
-- [ ] ...
-- [ ] ...
-
-### Commentaires
-
-
-## 5️⃣ Objectif 
-
-### Objectifs professionnels
-
-- ...
-- ...
-
-### Résultats
-
-- [ ] ...
-- [ ] ...
-
-### Commentaires
-
-# Progrés individuels
-
-## Objectifs de progrès individuels
-
-- ...
-- ...
-- ...
-
-## Résultats
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-## Commentaires
 
