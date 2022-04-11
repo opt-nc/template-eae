@@ -1,36 +1,21 @@
-# Mission
+# ENTRETIEN ANNUEL D'ECHANGE 2021
 
-....
+- Date de l'entretien : `DD/MM/YYYY`
+- Nom et prénom de l'agent : 	`VOTRE_NOM`, `VOTRE_PRENOM`
+- Collectivité : 	`VOTRE_COLLECTIVITE`
+- Direction : `VOTRE_DIRECTION`
 
+## Supports à utiliser lors de l’entretien
 
-#  Activités principales
+- La fiche individuelle de poste,
+- Le document d’entretien de l’année précédente,
 
-- Activité 1
-- Activité 2
-- ...
+# Circuit de transmission
 
+Après l’entretien de la fiche de poste et des feuilles I à XII :
 
-#  Activités secondaires
+- Un exemplaire à l’agent,
+- Un exemplaire au supérieur hiérarchique,
+- L’original à la direction (service) des ressources humaines de la collectivité
 
-- Activité secondaire 1
-- Activité secondaire 2
-
-# Compétences requises
-
-## Savoirs
-
-- ...
-- ...
-
-
-### Savoir faire
-
-- Savoir 1
-- Savoir 2
-- ...
-
-### Savoir être
-
-- Savoir 1
-- Savoir 2
-- ...
+**NB : Seules les pages I à VII seront obligatoirement transmises à la DRHFPNC pour la CAP.**
