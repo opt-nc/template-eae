@@ -52,15 +52,39 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 
 # 📖 Compiler en ePub/pdf
 
-## Publish en `ePub`
+## Publier en `ePub`
 
-Prérequis :
+### Compiler avec pandoc
+
+Pour comiler le ePub :
 
 ```
 brew install pandoc
 ```
 
-Puis :
+### 📖 Lire avec Calibre
+
+Pour lire le ePub (et le transférer sur une liseuse,...)
+
+#### 🐧 Linux 
+
+```
+sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
+```
+
+#### 🪟 Windows 
+
+```
+choco install calibre
+```
+
+#### 🍎 Autres 
+
+Pour le reste (MacOS, portable, Android, iOS,... ), aller sur la [page de téléchargement](https://calibre-ebook.com/download).
+
+
+## 🚀 Builder le ePub
+
 
 ```
 pandoc --toc -o mon-EAE.epub title.yml \
@@ -79,7 +103,7 @@ pandoc --toc -o mon-EAE.epub title.yml \
 Pour lire le ePub, [Calibre](https://calibre-ebook.com/) est une solution très efficace. Le développement
 de ce projet utilise Calibre pour tester les ePubs produits.
 
-## Export `pdf`
+## 📰 Export `pdf`
 
 Prerequis : 
 
