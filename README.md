@@ -54,6 +54,14 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 
 ## Publish en `ePub`
 
+Prérequis :
+
+```
+brew install pandoc
+```
+
+Puis :
+
 ```
 pandoc -o mon-EAE.epub title.txt \
   00_identification_agent.md \
@@ -75,8 +83,14 @@ pandoc -o mon-EAE.epub title.txt \
 Prerequis : 
 
 ```
+brew install pandoc
+sudo apt-get install texlive-latex-base
+sudo apt-get install texlive-fonts-recommended
+sudo apt-get install texlive-fonts-extra
+sudo apt-get install texlive-latex-extra
 sudo apt-get install texlive-full
 ```
+
 puis : 
 
 ```
