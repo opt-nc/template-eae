@@ -1,13 +1,15 @@
-# SYNTHESE DE VOTRE EVALUATION NOTATION
+# 🔚 Synthèse
+
+Synthèse de notre évaluation et notation :
 
 - Durée de l'entretien : `VOTRE_DUREE_ENTRETIEN`
 - Evaluateur : `VOTRE_EVALUATEUR`
 
-## Appréciation générale par l'évaluateur (13)
+## 📑 Appréciation générale par l'évaluateur (13)
 
 ...
 
-## Commentaires éventuels de l'évalué concernant l'appréciation (16)
+## ➿ Commentaires éventuels de l'évalué concernant l'appréciation (16)
 
 ...
 
@@ -24,9 +26,9 @@ Niveau (cocher la case adaptée) :
 - [ ] Insuffisant
 - [ ] Sans objet
 
-Evaluation chiffrée : VOTRE_NOTE/20
+Evaluation chiffrée : `VOTRE_NOTE/20`
 
-## Commentaires évalué concernant (16)
+## 🗣️ Commentaires évalué concernant (16)
 
 Commentaires éventuels de l'évalué concernant l'appréciation (16) :
 
