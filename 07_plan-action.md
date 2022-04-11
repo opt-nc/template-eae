@@ -1,4 +1,6 @@
-# Votre plan d'action pour l'année à venir
+# 📑 Plan d'action
+
+Votre plan d'action pour l'année à venir.
 
 👉 Il s'agit de construire ensemble votre plan d'action pour vous aider à remplir au mieux
 vos missions présentes et futures. Fixons les objectifs à atteindre et envisageons l'enrichissement
@@ -91,19 +93,19 @@ de vos compétences. OBJECTIFS (21)
 - ...
 - ...
 
-## Moyen d'accompagnement
+## 🙏 Moyen d'accompagnement
 
-### Besoins matériels
-
-- ...
-- ...
-
-### Besoins financiers 
+### 💻 🪑 Besoins matériels
 
 - ...
 - ...
 
-### Autres besoins
+### 💵 Besoins financiers 
+
+- ...
+- ...
+
+### ❔ Autres besoins
 
 - ...
 - ...
