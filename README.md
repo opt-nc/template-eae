@@ -76,7 +76,8 @@ pandoc --toc -o mon-EAE.epub title.yml \
   09_synthese-evaluation.md \
   10_avancement.md
 ```
-
+Pour lire le ePub, [Calibre](https://calibre-ebook.com/) est une solution très efficace. Le développement
+de ce projet utilise Calibre pour tester les ePubs produits.
 
 ## Export `pdf`
 
