@@ -3,7 +3,7 @@
 
 | Propriété       | Valeur               |
 | ---             | ---                  |
-| Nom             | VOTRE_NOME           |
+| Nom             | VOTRE_NOM            |
 | Prénom          | VOTRE_PRENOM         |
 | Matricule       | VOTRE_MATRICULE      |
 | Responsable     | VOTRE_RESPONSABLE    | 
