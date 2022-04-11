@@ -1,11 +1,11 @@
-# Votre activité sur la période écoulée
+# ➰ Votre activité sur la période écoulée
 
-## Particularités ou éléments nouveaux depuis l'entretien précedent
+## ☝️ Particularités ou éléments nouveaux depuis l'entretien précedent
 
 - ...
 - ...
 
-## Objectifs atteints et compétences acquises
+## 🎯 Objectifs atteints et compétences acquises
 
 Objectifs atteints et compétences acquises durant l'année écoulée.
 
@@ -19,19 +19,19 @@ Objectifs atteints et compétences acquises durant l'année écoulée.
 - ...
 - ...
 
-## Succès ou difficultés éventuellement rencontrés
+## 🥇 Succès ou difficultés éventuellement rencontrés
 
-### Succès
-
-- ...
-- ...
-
-
-### Difficultés
+### 🎆 Succès
 
 - ...
 - ...
 
-### Solutions aux difficultés
+
+### 💪 Difficultés
+
+- ...
+- ...
+
+### 💡 Solutions aux difficultés
 
 - ...
