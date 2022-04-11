@@ -1,9 +1,25 @@
-# SYNTHESE DE VOTRE EVALUATION NOTATION
+# Changement de classe (17)
 
-## Appréciation générale par l'évaluateur (13)
+Changement de classe pour les agents promouvables.
 
-...
+Dans le cadre d’un changement de classe, j’émets un avis (cocher la case adaptée) :
 
-## Commentaires éventuels de l'évalué concernant l'appréciation (16)
+- [ ] Favorable
+- [ ] Défavorable
+- [ ] Sans objet
 
-...
+## Changement de corps ou de grade (17)
+
+Dans le cadre d’un changement de corps, la manière de servir de l'agent est :
+
+- [ ] Très bonne
+- [ ] Bonne
+- [ ] Avis réservé
+- [ ] Sans objet
+
+Dans le cadre d’un changement de grade, la manière de servir de l'agent est :
+
+- [ ] Très bonne
+- [ ] Bonne
+- [ ] Avis réservé
+- [ ] Sans objet
