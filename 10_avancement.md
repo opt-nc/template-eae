@@ -1,4 +1,4 @@
-# ⤴️ hangement de classe (17)
+# ⤴️ Changement de classe (17)
 
 Changement de classe **pour les agents promouvables**.
 
