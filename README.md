@@ -63,7 +63,7 @@ brew install pandoc
 Puis :
 
 ```
-pandoc -o mon-EAE.epub title.txt \
+pandoc -o mon-EAE.epub title.yml \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
@@ -94,7 +94,7 @@ sudo apt-get install texlive-full
 puis : 
 
 ```
-pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.txt  \
+pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.yml  \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
