@@ -1,13 +1,13 @@
-# Appréciation des compétences
+# 💯 Appréciation des compétences
 
 Appréciation des compétences mises en oeuvre sur le poste de travail.
 
 ## Notations
 
-- A
-- B
-- C
-- D
+- `A`
+- `B`
+- `C`
+- `D`
 - `N/A` (Sans objet)
 
 
