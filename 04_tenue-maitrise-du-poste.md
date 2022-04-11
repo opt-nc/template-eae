@@ -9,7 +9,7 @@
 
 👉 _Rappel des objectifs professionnels et des objectifs de progrès individuels fixés et résultats obtenus (8)_
 
-### Objectif 1
+### 1️⃣ Objectif
 
 #### Objectifs professionnels
 
@@ -24,7 +24,7 @@
 #### Commentaires
 
 
-### Objectif 2
+### 2️⃣ Objectif
 
 #### Objectifs professionnels
 
@@ -39,7 +39,7 @@
 #### Commentaires
 
 
-### Objectif 3
+### 3️⃣ Objectif
 
 #### Objectifs professionnels
 
@@ -54,7 +54,7 @@
 #### Commentaires
 
 
-### Objectif 4
+### 4️⃣ Objectif
 
 #### Objectifs professionnels
 
@@ -69,7 +69,7 @@
 #### Commentaires
 
 
-### Objectif 5
+### 5️⃣ Objectif
 
 #### Objectifs professionnels
 
@@ -85,7 +85,7 @@
 
 
 
-## Progrés individuels
+## 📈 Progrés individuels
 
 ### Objectifs de progrès individuels
 
