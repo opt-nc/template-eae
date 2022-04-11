@@ -1,6 +1,19 @@
 ---
-title: Mon EAE
-author: Made with  <3 by adriens & mbarre
-rights:  Creative Commons Non-Commercial Share Alike 3.0
-language: fr-FR
+title:
+- type: main
+  text: Mon EAE
+- type: subtitle
+  text: Préparation de l'EAE
+creator:
+- role: author
+  text: VOTR_NOM
+- role: editor
+  text: NOM_EVALUATEUR
+identifier:
+- scheme:
+  text:
+publisher:  opt-nc/template-eae
+rights: © 2022 opt-nc/template-eaeh, CC BY-NC
+stylesheet: epub.css
+cover-image: cover.jpg
 ...
