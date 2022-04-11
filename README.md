@@ -88,6 +88,7 @@ Pour le reste (MacOS, portable, Android, iOS,... ), aller sur la [page de télé
 
 ```
 pandoc --toc -o mon-EAE.epub title.yml \
+  ressources.md  \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
@@ -120,6 +121,7 @@ puis :
 
 ```
 pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.yml  \
+  ressources.md  \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
