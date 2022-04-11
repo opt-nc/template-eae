@@ -5,7 +5,9 @@
 - ...
 - ...
 
-## Objectifs atteints et compétences acquises durant l'année écoulée
+## Objectifs atteints et compétences acquises
+
+Objectifs atteints et compétences acquises durant l'année écoulée.
 
 ### Objectifs atteints
 
