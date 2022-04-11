@@ -63,7 +63,7 @@ brew install pandoc
 Puis :
 
 ```
-pandoc -o mon-EAE.epub title.yml \
+pandoc --toc -o mon-EAE.epub title.yml \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
