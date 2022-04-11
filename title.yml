@@ -10,8 +10,8 @@ creator:
 - role: editor
   text: NOM_EVALUATEUR
 identifier:
-- scheme:
-  text:
+- scheme: 
+  text: 
 publisher:  opt-nc/template-eae
 rights: © 2022 opt-nc/template-eaeh, CC BY-NC
 stylesheet: epub.css
