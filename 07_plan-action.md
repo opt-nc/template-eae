@@ -1,4 +1,4 @@
-# Votre plan d'action pur l'année à venir
+# Votre plan d'action pour l'année à venir
 
 👉 Il s'agit de construire ensemble votre plan d'action pour vous aider à remplir au mieux
 vos missions présentes et futures. Fixons les objectifs à atteindre et envisageons l'enrichissement
