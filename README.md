@@ -94,7 +94,7 @@ sudo apt-get install texlive-full
 puis : 
 
 ```
-pandoc --toc --pdf-engine=xelatex -o mon-EAE.pdf title.txt  \
+pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.txt  \
   00_identification_agent.md \
   01_entete.md \
   02_resume.md \
