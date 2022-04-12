@@ -42,6 +42,7 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 - [Site institutionnel DRHFPNC](https://drhfpnc.gouv.nc/)
 - [Évaluation et avancement](https://drhfpnc.gouv.nc/carriere-des-fonctionnaires/evaluation-et-avancement)
 - [Documents et liens utiles pour l'EAE](https://drhfpnc.gouv.nc/formulaires-agents/entretien-annuel-dechange)
+- [Fiches métier](https://drhfpnc.gouv.nc/travailler-dans-la-fonction-publique-trouver-un-emploi-repertoire-des-emplois/les-fiches-emploi)
 
 # 💡 Possibilités ouvertes
 
