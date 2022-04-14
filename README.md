@@ -83,6 +83,15 @@ choco install calibre
 
 Pour le reste (MacOS, portable, Android, iOS,... ), aller sur la [page de téléchargement](https://calibre-ebook.com/download).
 
+## 💪 Builder avec `make`
+
+👉 Un makefile a été préparé pour simplifier le build des documents (`html`, `ePub`, `pdf`, `docx`).
+Tous les détails :
+
+```
+make help
+```
+
 
 ## 🚀 Builder le ePub
 
