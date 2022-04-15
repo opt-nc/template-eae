@@ -144,3 +144,21 @@ pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.yml  \
   09_synthese-evaluation.md \
   10_avancement.md
 ```
+
+## 🚀 Speedrun script
+
+Script pour :
+
+1. Instancier la repo
+2. Cloner
+3. Builder le ePub
+
+Tout simplement :
+
+```
+gh repo create my-eae --description "Repo de mon EAE" --private --template opt-nc/template-eae
+gh repo clone my-eae
+cd my-eae
+make help
+make epub
+```
