@@ -55,7 +55,7 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 
 ## ✔️ Prérequis
 
-Afin dintégrer l'historique complet des modification, il faut installer [`gitchangelog`](https://github.com/vaab/gitchangelog) : 
+Afin d'intégrer l'historique complet des modification, il faut installer [`gitchangelog`](https://github.com/vaab/gitchangelog) : 
 
 ```
 pip install gitchangelog
