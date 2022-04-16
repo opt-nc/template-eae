@@ -53,6 +53,14 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 
 # 📖 Compiler en ePub/pdf
 
+## ✔️ Prérequis
+
+Afin dintégrer l'historique complet des modification, il faut installer [`gitchangelog`](https://github.com/vaab/gitchangelog) : 
+
+```
+pip install gitchangelog
+```
+
 ## Publier en `ePub`
 
 ### Compiler avec pandoc
