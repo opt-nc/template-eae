@@ -15,7 +15,8 @@ MARKDOWNS = title.yml \
   07_plan-action.md \
   08_evolution-profressionnelle.md \
   09_synthese-evaluation.md \
-  10_avancement.md
+  10_avancement.md \
+  gitlog.md
 
 # Default targets
 
@@ -25,7 +26,7 @@ all: html epub pdf docx
 
 ## clean : Delete all generated files
 
-clean: html_clean epub_clean pdf_clean docx_clean
+clean: gitlog_clean html_clean epub_clean pdf_clean docx_clean
 
 # `make help` displays all lines beginning with two hash signs
 
@@ -34,9 +35,20 @@ help : Makefile
 
 # Build targets
 
+## gitlog  : Genere historique git en markdown 
+
+gitlog:
+	gitchangelog > gitlog.rst
+	pandoc gitlog.rst -f rst -t markdown -o gitlog.md
+
+## gitlog_clean  : Efface l'historique git en markdown
+gitlog_clean:
+	rm gitlog.rst gitlog.md
+
+
 ## html  : Generate an HTML file.
 
-html: $(BOOKNAME).html
+html: gitlog $(BOOKNAME).html
 
 html_clean:
 	rm -f $(BOOKNAME).html
@@ -47,7 +59,7 @@ $(BOOKNAME).html:
 	 
 ## epub  : Generate an EPUB file.
 
-epub: $(BOOKNAME).epub
+epub: gitlog $(BOOKNAME).epub
 
 epub_clean:
 	rm -f $(BOOKNAME).epub
@@ -58,7 +70,7 @@ $(BOOKNAME).epub:
 
 ## pdf   : Generate a PDF file.
 
-pdf: $(BOOKNAME).pdf
+pdf: gitlog $(BOOKNAME).pdf
 
 pdf_clean:
 	rm -f $(BOOKNAME).pdf
@@ -69,7 +81,7 @@ $(BOOKNAME).pdf:
 
 ## docx  : Generate a Word file.
 
-docx: $(BOOKNAME).docx
+docx: gitlog $(BOOKNAME).docx
 
 docx_clean:
 	rm -f $(BOOKNAME).docx
@@ -80,4 +92,4 @@ $(BOOKNAME).docx:
 
 # Actions that do not correspond to files
 
-.PHONY: help html pdf docx epub html_clean pdf_clean docx_clean epub_clean
+.PHONY: help gitlog html pdf docx epub html_clean pdf_clean docx_clean epub_clean 
