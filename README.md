@@ -1,6 +1,8 @@
-# template-eae
+# 🤓 template-eae
 
-Une repo template dédiée aux EAEs sur [monportailrh.nc](https://www.monportailrh.nc/).
+Une repo template dédiée aux EAEs sur [monportailrh.nc](https://www.monportailrh.nc/) et mener
+la prépartion de ce moment avec des outils de développeurs ouvrant de nouvelles
+perspectives autour de la collaboration.
 
 # ❔ Évaluation et avancement
 
