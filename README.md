@@ -63,6 +63,12 @@ Afin d'intégrer l'historique complet des modification, il faut installer [`gitc
 pip install gitchangelog
 ```
 
+Ainsi que l'extension GitHub [`gh-changelog`](https://github.com/chelnak/gh-changelog) : 
+
+```
+gh extension install chelnak/gh-changelog
+```
+
 ## Publier en `ePub`
 
 ### Compiler avec pandoc
