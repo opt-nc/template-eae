@@ -16,7 +16,9 @@ MARKDOWNS = title.yml \
   08_evolution-profressionnelle.md \
   09_synthese-evaluation.md \
   10_avancement.md \
+  release.md \
   gitlog.md
+
 
 # Default targets
 
@@ -40,6 +42,9 @@ help : Makefile
 gitlog:
 	gitchangelog > gitlog.rst
 	pandoc gitlog.rst -f rst -t markdown -o gitlog.md
+	gh changelog new
+	mv CHANGELOG.md release.md
+	sed -i 's/# Changelog/# Release/g' release.md
 
 ## gitlog_clean  : Efface l'historique git en markdown
 gitlog_clean:
