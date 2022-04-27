@@ -13,7 +13,7 @@ MARKDOWNS = title.yml \
   05_appreciation_competences.md \
   06_autoevaluation.md \
   07_plan-action.md \
-  08_evolution-profressionnelle.md \
+  08_evolution-professionnelle.md \
   09_synthese-evaluation.md \
   10_avancement.md \
   release.md \
