@@ -178,3 +178,32 @@ cd my-eae
 make help
 make epub
 ```
+
+## 🪛 Troubleshootings
+
+Lors de la génération de l'epub, il est posible d'avoir l'erreur suivante :
+```shell
+ ssh: handshake failed: knownhosts: key mismatch
+```
+Il suffit d'ajouter **github.com** au fichier **known_hosts**. Si l'entrée github.com est déjà présente, c'est qu'il faut la mettre à jour
+
+Voici quelques commandes utiles :
+
+- Scan known hosts
+
+```shell
+ssh-keygen -H -F github.com
+```
+
+- Remove entry for host
+
+```shell
+ssh-keygen -R github.com
+rm ~/.ssh/known_hosts.old (à executer après validation)
+```
+
+- Add entry for host
+
+```shell
+ssh-keyscan -H github.com > ~/.ssh/known_hosts
+```
