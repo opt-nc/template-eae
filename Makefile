@@ -70,7 +70,7 @@ epub_clean:
 	rm -f $(BOOKNAME).epub
 
 $(BOOKNAME).epub: 
-	pandoc --toc -o $(BOOKNAME).epub ${MARKDOWNS}
+	pandoc --epub-metadata=title.yml --toc -o $(BOOKNAME).epub ${MARKDOWNS}
 
 
 ## pdf   : Generate a PDF file.
