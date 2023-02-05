@@ -1,17 +1,17 @@
-# 💯 Appréciation des compétences
+# 📄 Appréciation des compétences
 
 Appréciation des compétences mises en oeuvre sur le poste de travail.
 
-## Notations
+## 🔤 Notations
 
-- `A`
-- `B`
-- `C`
-- `D`
-- `N/A` (Sans objet)
+- 🇦
+- 🇧`
+- 🇨
+- 🇩
+- 🗆
 
 
-## Plan technique (9)
+## 🔧 Plan technique (9)
 
 |                                                            Critère                                                            | Par l'évalué | Par l'évaluateur |
 |                                                               ---                                                             |       ---    |       ---        |
@@ -20,7 +20,7 @@ Appréciation des compétences mises en oeuvre sur le poste de travail.
 | 1-3 Organisation du travail                                                                                                   |              |                  |
 | 1-4 Niveau de connaissance de l’outil informatique (ou de l’outil de travail principal si différent)                          |              |                  |
 
-## Plan savoir être (10)
+## 🧑‍🤝‍🧑 Plan savoir être (10)
 
 |                                                            Critère                              | Par l'évalué | Par l'évaluateur |
 |                                                               ---                               |       ---    |       ---        |
@@ -29,7 +29,7 @@ Appréciation des compétences mises en oeuvre sur le poste de travail.
 | 2-3 Prise d’initiative – autonomie – implication – adaptation aux démarches de modernisation    |              |                  |
 | 2-4 Maîtrise de l’expression écrite et orale nécessaire à la tenue du poste                     |              |                  |
 
-## Plan managérial (11)
+## 🧑‍✈️ Plan managérial (11)
 
 **NB : Critère facultatif en fonction du poste de travail de l'évalué.**
 
@@ -40,7 +40,7 @@ Appréciation des compétences mises en oeuvre sur le poste de travail.
 | 3-3 Capacité à conduire des projets                                         |              |                  |
 | 3-4 Sens de la concertation et de la négociation dans l’activité de manager |              |                  |
 
-## Résultats obtenus (12)
+## 🎯 Résultats obtenus (12)
 
 **NB : Pour `4-2` : si la nature du poste le justifie, sinon, passer à `4-3`.**
 
