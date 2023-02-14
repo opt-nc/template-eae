@@ -4,6 +4,29 @@ Une repo template dédiée aux EAEs sur [monportailrh.nc](https://www.monportail
 la prépartion de ce moment avec des outils de développeurs ouvrant de nouvelles
 perspectives autour de la collaboration.
 
+# 🤓 Des EAEs sur `git` 🙀
+
+Parce'que...
+
+```mermaid
+gitGraph
+   commit
+   branch EAE-2022
+   checkout EAE-2022
+   commit id: "Identifitcation agent"
+   commit id: "Evol fiche de poste"
+   commit id: "Tenue du poste"
+   commit id: "Appréciation"
+   commit id: "Autoévaluation"
+   commit id: "Plan Actions"
+   commit id: "Synthèse"
+   commit id: "Avancement"
+   checkout main
+   merge EAE-2022
+   commit
+
+```
+
 # ❔ Évaluation et avancement
 
 Cf le [site officiel de la DRHFPNC](https://drhfpnc.gouv.nc/carriere-des-fonctionnaires/evaluation-et-avancement) : 
