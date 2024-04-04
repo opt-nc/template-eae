@@ -1,6 +1,6 @@
 # RESUME DU DOSSIER
 
-Date de l'entretien : 	`DD/MM/YYYY'
+Date de l'entretien : 	`DD/MM/YYYY`
 
 ## Présentation de l'évaluateur
 
@@ -48,7 +48,7 @@ Date de l'entretien : 	`DD/MM/YYYY'
 - Entrée dans le secteur public : 	`DD/MM/YYYY`
 
 - Fonction :
-    - Date d'entrée dans la fonction :
+    - Date d'entrée dans la fonction : `DD/MM/YYYY`
     - Emploi (cf Référentiel) : 	`VOTRE_EMPLOI`
 
 
