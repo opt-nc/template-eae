@@ -10,3 +10,4 @@ Ci-dessous quelques liens utiles relatifs aux EAEs :
 - [Guide de l'évaluateur](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/guideevaluateur.pdf)
 - [Evaluation et avancement](https://drhfpnc.gouv.nc/carriere-des-fonctionnaires/evaluation-et-avancement)
 - [La DRHFPNC](https://drhfpnc.gouv.nc/)
+- [Notice de l'Eentretien Annuel d’Echange et documents CAP](https://drhfpnc.gouv.nc/sites/default/files/atoms/files/notice_eae_0.pdf) (utile pour les scores d'évaluation)
