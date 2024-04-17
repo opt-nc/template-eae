@@ -93,6 +93,12 @@ docx_clean:
 
 $(BOOKNAME).docx: 
 	pandoc --toc  -o $(BOOKNAME).docx ${MARKDOWNS}
+
+## gource   : Build the movie of collaboration flow
+
+gource: gource --title "Campagne EAE via opt-nc/template-eae" --camera-mode track --key -e 0.5 -o - |\                                                                                   ✔  1m 40s  12:32:52 
+ ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i - -vcodec libx264 -preset ultrafast \
+  -pix_fmt yuv420p -crf 1 -threads 0 -bf 0 eae.mp4
 	
 
 # Actions that do not correspond to files
