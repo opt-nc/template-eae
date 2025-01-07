@@ -1,9 +1,5 @@
 ---
-title:
-- type: main
-  text: Mon EAE
-- type: subtitle
-  text: Préparation de l'EAE
+title: "EAE Prenom NOM: Préparation de l'EAE"
 creator:
 - role: author
   text: VOTRE_NOM
