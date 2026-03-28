@@ -1,19 +1,19 @@
 # 🤓 template-eae
 
 Une repo template dédiée aux EAEs sur [monportailrh.nc](https://www.monportailrh.nc/) et mener
-la prépartion de ce moment avec des outils de développeurs ouvrant de nouvelles
+la préparation de ce moment avec des outils de développeurs ouvrant de nouvelles
 perspectives autour de la collaboration.
 
 # 🤓 Des EAEs sur `git` 🙀
 
-Parce'que...
+Parce que...
 
 ```mermaid
 gitGraph
    commit
    branch EAE-2022
    checkout EAE-2022
-   commit id: "Identifitcation agent"
+   commit id: "Identification agent"
    commit id: "Evol fiche de poste"
    commit id: "Tenue du poste"
    commit id: "Appréciation"
@@ -51,7 +51,7 @@ et a pour ambition d'aider au processus d'élaboration de l'EAE avec le collabor
 
 # 👇 Cas d'utilisation
 
-1. Cliquer sur `Use this template
+1. Cliquer sur `Use this template`
 2. Choisir l'owner cible (votre compte personnel par exemple)
 3. Cocher `Privé` (vous pourrez donner des droits très fins par la suite à votre manager par exemple)
 4. Choisir un nom pour la repo eg. `my-EAE`
@@ -73,48 +73,68 @@ Sinon, plus de détails, aller sur la documentation qui détaille le processus d
 
 - Via la CI, compiler l'EAE via [`pandoc`](https://pandoc.org/)
 - Suivre et planifier les EAEs via l'activité des modifications et suivre sur un projet GH
-- Production de métiques sur un EAE
-- Automatisation/ntifications par outils cloud et webhooks (push d'un draft, notif de chnagement via mail ou Teams,...)
+- Production de métriques sur un EAE
+- Automatisation/notifications par outils cloud et webhooks (push d'un draft, notif de changement via mail ou Teams,...)
 
-# 📖 Compiler en ePub/pdf
+# 📖 Compiler en ePub/pdf/html/docx
 
 ## ✔️ Prérequis
 
-Afin d'intégrer l'historique complet des modification, il faut installer [`gitchangelog`](https://github.com/vaab/gitchangelog) : 
+Afin de compiler les documents, vous devez installer [`pandoc`](https://pandoc.org/) : 
 
-```
-pip install gitchangelog
-```
-
-Ainsi que l'extension GitHub [`gh-changelog`](https://github.com/chelnak/gh-changelog) : 
-
-```
-gh extension install chelnak/gh-changelog
-```
-
-## Publier en `ePub`
-
-### Compiler avec pandoc
-
-Pour comiler le ePub :
-
-```
+```bash
 brew install pandoc
 ```
 
-### 📖 Lire avec Calibre
+Pour le moteur PDF (lualatex ou xelatex) :
+```bash
+sudo apt-get install texlive-full
+```
 
-Pour lire le ePub (et le transférer sur une liseuse,...)
+## 💪 Builder avec `task`
+
+👉 Un `Taskfile.yml` a été préparé pour simplifier le build des documents (`html`, `ePub`, `pdf`, `docx`).
+Les fichiers générés se trouvent dans le répertoire `dist/`.
+
+Installation de [go-task](https://taskfile.dev/installation/) :
+```bash
+brew install go-task
+```
+
+Tous les détails :
+
+```bash
+task --list
+```
+
+## 🚀 Générer tous les formats
+
+```bash
+task
+```
+
+Ou un format spécifique :
+
+```bash
+task html
+task epub
+task pdf
+task docx
+```
+
+## 📖 Lire avec Calibre
+
+Pour lire le ePub (et le transférer sur une liseuse,...) [Calibre](https://calibre-ebook.com/) est une solution très efficace. 
 
 #### 🐧 Linux 
 
-```
+```bash
 sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | sudo sh /dev/stdin
 ```
 
 #### 🪟 Windows 
 
-```
+```bash
 choco install calibre
 ```
 
@@ -122,67 +142,6 @@ choco install calibre
 
 Pour le reste (MacOS, portable, Android, iOS,... ), aller sur la [page de téléchargement](https://calibre-ebook.com/download).
 
-## 💪 Builder avec `make`
-
-👉 Un makefile a été préparé pour simplifier le build des documents (`html`, `ePub`, `pdf`, `docx`).
-Tous les détails :
-
-```
-make help
-```
-
-
-## 🚀 Builder le ePub
-
-
-```
-pandoc --toc -o mon-EAE.epub title.yml \
-  ressources.md  \
-  00_identification_agent.md \
-  01_entete.md \
-  02_resume.md \
-  03_fiche-de-poste.md \
-  04_tenue-maitrise-du-poste.md \
-  05_appreciation_competences.md \
-  06_autoevaluation.md \
-  07_plan-action.md \
-  08_evolution-profressionnelle.md \
-  09_synthese-evaluation.md \
-  10_avancement.md
-```
-Pour lire le ePub, [Calibre](https://calibre-ebook.com/) est une solution très efficace. Le développement
-de ce projet utilise Calibre pour tester les ePubs produits.
-
-## 📰 Export `pdf`
-
-Prerequis : 
-
-```
-brew install pandoc
-sudo apt-get install texlive-latex-base
-sudo apt-get install texlive-fonts-recommended
-sudo apt-get install texlive-fonts-extra
-sudo apt-get install texlive-latex-extra
-sudo apt-get install texlive-full
-```
-
-puis : 
-
-```
-pandoc --toc --pdf-engine=lualatex -o mon-EAE.pdf title.yml  \
-  ressources.md  \
-  00_identification_agent.md \
-  01_entete.md \
-  02_resume.md \
-  03_fiche-de-poste.md \
-  04_tenue-maitrise-du-poste.md \
-  05_appreciation_competences.md \
-  06_autoevaluation.md \
-  07_plan-action.md \
-  08_evolution-profressionnelle.md \
-  09_synthese-evaluation.md \
-  10_avancement.md
-```
 
 ## 🚀 Speedrun script
 
@@ -190,21 +149,20 @@ Script pour :
 
 1. Instancier la repo
 2. Cloner
-3. Builder le ePub
+3. Builder les documents
 
 Tout simplement :
 
-```
+```bash
 gh repo create my-eae --description "Repo de mon EAE" --private --template opt-nc/template-eae
 gh repo clone my-eae
 cd my-eae
-make help
-make epub
+task
 ```
 
 ## 🪛 Troubleshootings
 
-Lors de la génération de l'epub, il est posible d'avoir l'erreur suivante :
+Lors de la génération de l'epub, il est possible d'avoir l'erreur suivante :
 ```shell
  ssh: handshake failed: knownhosts: key mismatch
 ```
@@ -222,7 +180,7 @@ ssh-keygen -H -F github.com
 
 ```shell
 ssh-keygen -R github.com
-rm ~/.ssh/known_hosts.old (à executer après validation)
+rm ~/.ssh/known_hosts.old (à exécuter après validation)
 ```
 
 - Add entry for host
