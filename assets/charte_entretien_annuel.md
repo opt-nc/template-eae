@@ -1,4 +1,4 @@
-# Charte de l'entretien annuel
+## Charte de l'entretien annuel
 
 *DRHFPNC — Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie*
 *I.A. 2009-016*
@@ -13,7 +13,7 @@ Acte fondamental de management, l'entretien annuel est mené avec un souci d'éc
 
 ---
 
-## L'entretien annuel, c'est…
+### L'entretien annuel, c'est…
 
 **Une rencontre**
 - entre l'agent et son responsable hiérarchique direct,
@@ -34,7 +34,7 @@ L'entretien a pour objectif de mesurer l'adaptation de la personne à son poste 
 
 ---
 
-## Ce n'est pas…
+### Ce n'est pas…
 
 - Un jugement de la personne : on évalue un résultat, une contribution.
 - La résolution d'un problème ponctuel.
@@ -44,7 +44,7 @@ L'entretien a pour objectif de mesurer l'adaptation de la personne à son poste 
 
 ---
 
-## Pourquoi mener cet entretien ?
+### Pourquoi mener cet entretien ?
 
 - Pour **institutionnaliser le dialogue** au-delà des échanges quotidiens.
 - Pour **cadrer annuellement** :
@@ -57,7 +57,7 @@ L'entretien a pour objectif de mesurer l'adaptation de la personne à son poste 
 
 ---
 
-## Que mesure-t-on dans cet entretien ?
+### Que mesure-t-on dans cet entretien ?
 
 - De manière générale, **le travail de l'agent** : ce qu'il a fait au cours de l'année, en termes qualitatifs et quantitatifs, ainsi que son positionnement et sa capacité à travailler en équipe.
 - Plus précisément, **les résultats obtenus** et leur conformité aux objectifs préalablement définis.
@@ -65,37 +65,37 @@ L'entretien a pour objectif de mesurer l'adaptation de la personne à son poste 
 
 ---
 
-## Qui commence ?
+### Qui commence ?
 
 La logique des entretiens est, de préférence, **descendante** afin de permettre la déclinaison des objectifs de la structure vers ceux des agents.
 
-## Qui conduit l'entretien ?
+### Qui conduit l'entretien ?
 
 - Un entretien se mène à deux. Chacun doit pouvoir s'exprimer le plus librement possible.
 - La personne la mieux placée pour évaluer le travail de l'agent est celle qui, au quotidien, organise le travail de l'agent et contrôle son activité.
 - Il s'agit donc du **responsable hiérarchique direct** de l'agent évalué.
 
-## Quand mener cet entretien ?
+### Quand mener cet entretien ?
 
 Une fois par an, durant la campagne des EAE. Le rendez-vous doit être fixé **au minimum une semaine avant** la date prévue pour permettre à chacun de se préparer.
 
-## Durée de l'entretien
+### Durée de l'entretien
 
 Prévoir **au minimum 1 heure** afin de pouvoir explorer l'ensemble des points.
 
-## Où le mener ?
+### Où le mener ?
 
 Dans un **endroit calme**, avec toutes les dispositions nécessaires pour ne pas être dérangé (téléphone, visiteurs…), en bloquant le temps nécessaire et en étant pleinement concentré sur ce rendez-vous essentiel.
 
 ---
 
-## Comment mener l'entretien annuel ?
+### Comment mener l'entretien annuel ?
 
-### Phase de préparation
+#### Phase de préparation
 
 Dès la fixation du rendez-vous, le responsable transmet à l'agent une copie du dossier d'entretien annuel avec le contenu de sa fiche de poste, ainsi qu'un dossier de préparation (charte de l'entretien, guide de l'évalué…). Pour l'agent, cette phase est l'occasion de **s'autoévaluer** : la fiche « autoévaluation » est prévue à cet effet.
 
-### Phase opérationnelle
+#### Phase opérationnelle
 
 L'entretien annuel comporte trois parties :
 
@@ -105,7 +105,7 @@ L'entretien annuel comporte trois parties :
 
 3. **La carrière**, à travers l'avancement d'échelon, qui ne concerne que les agents susceptibles de changer d'échelon dans l'année. L'évaluateur met ce moment à profit pour justifier à l'Autorité Territoriale son choix de durée d'échelon.
 
-### Le dossier de l'entretien annuel
+#### Le dossier de l'entretien annuel
 
 Le dossier comprend :
 - la fiche de présentation de l'évaluateur et de l'agent évalué,
@@ -119,7 +119,7 @@ Les documents sont complétés pendant l'entretien ou dans les meilleurs délais
 
 ---
 
-## Quels sont les recours possibles ?
+### Quels sont les recours possibles ?
 
 En cas de désaccord entre l'évalué et l'évaluateur :
 
@@ -129,7 +129,7 @@ En cas de désaccord entre l'évalué et l'évaluateur :
 
 ---
 
-## Qui sont les destinataires des documents ?
+### Qui sont les destinataires des documents ?
 
 - La **DRHFPNC** est obligatoirement destinataire, pour la CAP et pour les seuls agents promouvables pour un avancement d'échelon dans l'année, des fiches portant « CAP » en filigrane.
 - La **DRH** (ou le service ressources humaines pour les petites collectivités) est destinataire des mêmes documents, auxquels s'ajoutent les fiches d'évolution professionnelle et de développement des compétences.

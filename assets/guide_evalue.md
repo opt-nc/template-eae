@@ -1,17 +1,17 @@
-# ENTRETIEN ANNUEL — Guide de l'évalué
+## ENTRETIEN ANNUEL — Guide de l'évalué
 
 *DRHFPNC — Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie*
 *I.A. 2009-015*
 
 ---
 
-## La préparation de l'entretien
+### La préparation de l'entretien
 
 Tous les agents permanents (titulaires et non titulaires) sont concernés par cet entretien, qui sera conduit par leur responsable hiérarchique direct. Il s'agit d'un échange devant permettre la libre expression de chacun.
 
 La préparation est un moment essentiel pour le bon déroulement de l'entretien. Elle doit avoir lieu **au moins une semaine avant** la date fixée. Votre fiche de poste, votre EAE de l'an passé ainsi qu'une liste de questions proposées vous serviront de base pour réfléchir à votre travail et à la manière dont vous l'effectuez.
 
-### Dans quel état d'esprit aborder l'entretien ?
+#### Dans quel état d'esprit aborder l'entretien ?
 
 L'entretien annuel est une chance à saisir, un temps d'écoute personnalisé. Avant de commencer votre préparation, rappelez-vous les principes suivants :
 
@@ -24,7 +24,7 @@ L'entretien annuel est une chance à saisir, un temps d'écoute personnalisé. A
   - l'écrit est une garantie contre les évaluations arbitraires.
 - **Ne pas s'exprimer en pensant que tout ce que l'on va dire peut être retenu contre soi.**
 
-### Conseils pratiques pour cette préparation
+#### Conseils pratiques pour cette préparation
 
 - **Se donner le temps de réfléchir :**
   - à votre fiche de poste : votre mission, vos activités (votre responsable ne connaît pas toujours dans le détail la diversité des activités effectuées par chacun dans son équipe) ;
@@ -32,7 +32,7 @@ L'entretien annuel est une chance à saisir, un temps d'écoute personnalisé. A
 - **L'autoévaluation** : l'évalué s'interroge sur son propre comportement et ses compétences. L'autoévaluation constitue une bonne préparation à l'entretien.
 - **Avoir des notes** sur ces différents points.
 
-### Les erreurs à éviter
+#### Les erreurs à éviter
 
 - Ne pas se préparer à l'entretien.
 - Ne pas s'exprimer en pensant que tout ce que l'on va dire peut être retenu contre soi.
@@ -40,9 +40,9 @@ L'entretien annuel est une chance à saisir, un temps d'écoute personnalisé. A
 
 ---
 
-## Le déroulement de l'entretien
+### Le déroulement de l'entretien
 
-### Les étapes de l'échange
+#### Les étapes de l'échange
 
 1. **Le démarrage de l'entretien** — L'évaluateur précise les objectifs visés et la méthode de l'entretien.
 
@@ -54,16 +54,16 @@ L'entretien annuel est une chance à saisir, un temps d'écoute personnalisé. A
 
 5. **La notation et la carrière à travers l'avancement d'échelon ou de classe** — La note est déterminée pendant l'entretien. Si un avancement d'échelon ou de classe est possible dans l'année, l'évaluateur vous informe de la proposition qu'il fera à l'Autorité Territoriale.
 
-### Les documents servant de fil conducteur à l'entretien
+#### Les documents servant de fil conducteur à l'entretien
 
 - **La fiche de poste (III)** — Validée par votre responsable et par vous. Elle est obligatoire.
 - **Les fiches (IV, V et VIII à XII)** — Relatives au bilan de l'année écoulée, à la fixation des objectifs et des moyens pour l'année à venir, à l'évolution professionnelle et au développement des compétences. Elles seront le résultat d'un consensus entre l'évaluateur et vous-même.
 
 ---
 
-## Les trois volets de l'entretien
+### Les trois volets de l'entretien
 
-### 1 — Le bilan de l'année écoulée
+#### 1 — Le bilan de l'année écoulée
 
 Quatre rubriques sont complétées, pour partie à partir de votre autoévaluation :
 
@@ -77,21 +77,21 @@ Quatre rubriques sont complétées, pour partie à partir de votre autoévaluati
 
 > Les événements particuliers intervenus en cours d'année doivent être évoqués : évolution du poste ou de l'environnement, activités exceptionnelles, réussite à un concours, participation à une formation pertinente, modification organisationnelle…
 
-### 2 — Votre plan d'action pour l'année à venir
+#### 2 — Votre plan d'action pour l'année à venir
 
 Des objectifs professionnels et des objectifs de progrès individuels sont déterminés par votre responsable hiérarchique, en accord avec vous. Les moyens d'accompagnement nécessaires sont également définis (matériel, humains, financiers, formation, autonomie…).
 
-### 3 — Votre évolution professionnelle et le développement de vos compétences
+#### 3 — Votre évolution professionnelle et le développement de vos compétences
 
 Cette partie vous offre l'occasion de proposer des améliorations de votre environnement professionnel et d'exprimer des souhaits d'évolution. L'évaluateur formalisera avec vous vos besoins en formation, qui pourront prendre la forme de stages traditionnels, de stages pratiques, de tutorat ou de toute autre forme d'apprentissage.
 
 ---
 
-### La synthèse de votre évaluation et la notation (VI)
+#### La synthèse de votre évaluation et la notation (VI)
 
 Cette fiche formalise un acte statutaire obligatoire. Une appréciation du notateur doit y figurer, nécessairement liée à ce qui a été exprimé lors de l'entretien.
 
-### Votre carrière (VII)
+#### Votre carrière (VII)
 
 Si vous êtes concerné par un changement d'échelon ou de classe dans l'année, cette fiche est complétée par votre responsable hiérarchique. Lorsque celui-ci souhaite appliquer une durée d'échelon exceptionnelle, il doit obligatoirement rédiger un rapport circonstancié pour justifier sa demande. Vous pouvez y porter des observations si vous le souhaitez.
 
@@ -99,13 +99,13 @@ Si vous êtes concerné par un changement d'échelon ou de classe dans l'année,
 
 ---
 
-## Questions proposées pour la préparation de l'entretien
+### Questions proposées pour la préparation de l'entretien
 
 *Ces questions ne sont qu'un outil de réflexion. Lisez ce document avant l'entretien pour profiter au mieux de ce temps de dialogue et d'écoute.*
 
 ---
 
-### 1. Bilan de l'année écoulée
+#### 1. Bilan de l'année écoulée
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -121,7 +121,7 @@ Si vous êtes concerné par un changement d'échelon ou de classe dans l'année,
 
 ---
 
-### 2. Fixation des objectifs
+#### 2. Fixation des objectifs
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -132,7 +132,7 @@ Si vous êtes concerné par un changement d'échelon ou de classe dans l'année,
 
 ---
 
-### 3. Fixation des moyens
+#### 3. Fixation des moyens
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -146,7 +146,7 @@ Si vous êtes concerné par un changement d'échelon ou de classe dans l'année,
 
 ---
 
-### 4. Possibilité d'évolution
+#### 4. Possibilité d'évolution
 
 | Évalué | Évaluateur |
 |--------|-----------|

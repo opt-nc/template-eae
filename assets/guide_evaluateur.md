@@ -1,21 +1,21 @@
-# ENTRETIEN ANNUEL — Guide de l'évaluateur
+## ENTRETIEN ANNUEL — Guide de l'évaluateur
 
 *DRHFPNC — Direction des Ressources Humaines de la Fonction Publique de Nouvelle-Calédonie*
 *I.A. 2009-014*
 
 ---
 
-## Préalable à l'entretien
+### Préalable à l'entretien
 
 Le directeur coordonne le travail des évaluateurs de sa structure. Il organise une réunion de l'ensemble de ceux-ci, **préalablement aux entretiens**, pour préciser le cadre de référence de la notation, de l'avancement d'échelon ou de classe et définir les objectifs de l'année.
 
 ---
 
-## La préparation de l'entretien
+### La préparation de l'entretien
 
 Tous les agents permanents (titulaires et non titulaires) sont concernés par cet entretien, qui sera conduit par leur responsable hiérarchique direct. Il s'agit d'un échange devant permettre la libre expression des agents évalués. Les documents constituant la trame de l'entretien (notamment la fiche de poste) ainsi qu'un guide de l'évalué leur seront remis au préalable.
 
-### Que faut-il préparer ?
+#### Que faut-il préparer ?
 
 - Connaître et rechercher les activités significatives du poste ;
 - Prendre connaissance des documents établis l'année précédente, s'il y en a ;
@@ -23,7 +23,7 @@ Tous les agents permanents (titulaires et non titulaires) sont concernés par ce
 
 > **Attention à ne pas se perdre dans les détails.** Apprécier sa propre part de responsabilité dans les événements de l'année ayant pu influencer l'activité de l'agent évalué.
 
-### Conseils pratiques pour cette préparation
+#### Conseils pratiques pour cette préparation
 
 **Implication** — La réussite de l'entretien dépendra beaucoup de la conviction que l'évaluateur mettra dans l'utilité de l'entretien, de sa disponibilité et de sa conviction.
 
@@ -36,7 +36,7 @@ Tous les agents permanents (titulaires et non titulaires) sont concernés par ce
 - Avoir un plan d'entretien pour tout ce qu'on va dire ;
 - Expliquer précisément ce que l'on attend de l'agent au regard de sa fiche de poste et des objectifs fixés.
 
-### Les erreurs à éviter
+#### Les erreurs à éviter
 
 - Fixer l'entretien dans une période de « surchauffe » liée à un travail urgent ou intense.
 - Ne pas se préparer suffisamment.
@@ -46,7 +46,7 @@ Tous les agents permanents (titulaires et non titulaires) sont concernés par ce
 
 ---
 
-## Comment rédiger la fiche de poste ?
+### Comment rédiger la fiche de poste ?
 
 La fiche de poste constitue le **support de référence essentiel** de la démarche de l'entretien annuel. Elle traduit une certaine forme de contrat entre l'agent et son responsable hiérarchique, et facilite le dialogue en mettant en évidence les activités attendues du poste.
 
@@ -54,7 +54,7 @@ C'est un document partagé entre le responsable hiérarchique et son collaborate
 
 La fiche de poste est rédigée par le responsable hiérarchique qui conduira l'entretien ; après échanges et discussion, elle sera validée par les deux parties au cours de l'entretien.
 
-### 1. Identification du poste
+#### 1. Identification du poste
 
 Précise les éléments concrets liés au grade, à la localisation, ainsi que les intitulés de la fonction et du poste occupé. L'emploi doit être renseigné en référence avec la **nomenclature des emplois des services publics de Nouvelle-Calédonie**.
 
@@ -62,15 +62,15 @@ Il est préférable de décrire une activité en commençant par un **verbe subs
 
 Ne pas oublier les activités essentielles liées à la communication, à la circulation de l'information, voire aux situations d'encadrement d'équipe ou de service.
 
-### 2. Mission
+#### 2. Mission
 
 Résumé du poste mettant en évidence les finalités du poste et ses contributions essentielles à l'activité du service ou de la structure.
 
-### 3. Lien hiérarchique
+#### 3. Lien hiérarchique
 
 Le nom et la fonction du responsable hiérarchique direct sont ceux de celui qui procède à la rédaction du descriptif de poste et qui conduit l'entretien.
 
-### 4. Activités principales
+#### 4. Activités principales
 
 Formalise les activités attendues du poste ainsi que les compétences (savoirs et savoir-faire) qui y sont attachées. La définition du poste peut être identique ou légèrement décalée du poste réellement mis en œuvre pour différentes raisons :
 
@@ -80,7 +80,7 @@ Formalise les activités attendues du poste ainsi que les compétences (savoirs 
 
 > La mesure des écarts entre la fiche de poste et la tenue du poste au cours de l'année n-1 alimentera en partie la fixation d'objectifs professionnels ou individuels.
 
-### 5. Les compétences
+#### 5. Les compétences
 
 Constituées par la combinatoire des savoirs et savoir-faire requis pour occuper le poste. Il s'agit de repérer les **savoir-faire critiques essentiels**.
 
@@ -106,11 +106,11 @@ Constituées par la combinatoire des savoirs et savoir-faire requis pour occuper
 
 ---
 
-## Le déroulement de l'entretien
+### Le déroulement de l'entretien
 
 L'entretien annuel est avant tout l'occasion d'un dialogue. Pour que ce dialogue soit effectif, il convient de respecter quelques règles. L'entretien aura pour fil conducteur les documents à compléter ou à mettre à jour (fiche de poste, fiche d'évaluation, fiche de notation…).
 
-### Les étapes de l'entretien
+#### Les étapes de l'entretien
 
 **Le début de l'entretien**
 - Rappel par l'évaluateur des objectifs visés, de la méthode et de la durée de l'entretien. Créer un climat de confiance et de dialogue : l'accueil est très important et les premières minutes peuvent être déterminantes.
@@ -141,7 +141,7 @@ Les étapes clés :
 - Gérer les temps de parole.
 - Vérifier la compréhension de ce qu'on a dit ou écrit, par la reformulation.
 
-### Les erreurs à éviter
+#### Les erreurs à éviter
 
 - **Manque de disponibilité ou d'implication** — « on nous demande de faire cet entretien, alors allons-y ».
 - **Lieu inadapté** (perturbations : téléphone…).
@@ -151,14 +151,14 @@ Les étapes clés :
 
 ---
 
-## Les différentes phases de l'entretien
+### Les différentes phases de l'entretien
 
-### Documents servant de fil conducteur
+#### Documents servant de fil conducteur
 
 - **La fiche de poste (III)** — Document obligatoire, validé par l'évalué, actualisé chaque année si nécessaire.
 - **Les fiches (IV, V et VIII à XII)** — Relatives au bilan de l'année écoulée, à la fixation des objectifs et des moyens pour l'année à venir, à l'évolution professionnelle et au développement des compétences. Résultat d'un consensus entre l'évaluateur et l'évalué.
 
-### 1 — Le bilan de l'année écoulée
+#### 1 — Le bilan de l'année écoulée
 
 Quatre rubriques sont complétées, pour partie à partir de l'autoévaluation de l'agent :
 
@@ -172,21 +172,21 @@ Quatre rubriques sont complétées, pour partie à partir de l'autoévaluation d
 
 > Les événements particuliers intervenus en cours d'année doivent être évoqués : évolution du poste ou de l'environnement, activités exceptionnelles, réussite à un concours, participation à une formation pertinente, modification organisationnelle…
 
-### 2 — Le plan d'action pour l'année à venir
+#### 2 — Le plan d'action pour l'année à venir
 
 Des objectifs professionnels et des objectifs de progrès individuels sont déterminés par le responsable hiérarchique, en accord avec l'agent. Les moyens d'accompagnement nécessaires sont également définis (matériel, humains, financiers, formation, autonomie…).
 
-### 3 — L'évolution professionnelle et le développement des compétences
+#### 3 — L'évolution professionnelle et le développement des compétences
 
 Cette partie offre à l'agent l'occasion de proposer des améliorations de son environnement professionnel et d'exprimer des souhaits d'évolution. L'évaluateur formalisera avec l'agent ses besoins en formation, sous forme de stages traditionnels, de stages pratiques, de tutorat ou de toute autre forme d'apprentissage.
 
-### La synthèse de l'évaluation et la notation (VI)
+#### La synthèse de l'évaluation et la notation (VI)
 
 Cette fiche formalise un acte statutaire obligatoire. Une appréciation du notateur doit y figurer, nécessairement liée à ce qui a été exprimé lors de l'entretien.
 
 > Veiller à la **cohérence entre la note, l'appréciation littérale et l'avis impactant la carrière** (changement d'échelon et de classe).
 
-### La carrière (VII)
+#### La carrière (VII)
 
 Si l'agent est concerné par un changement d'échelon ou de classe dans l'année, cette fiche est complétée par le responsable hiérarchique. Lorsqu'une durée d'échelon exceptionnelle est souhaitée, un **rapport circonstancié** doit obligatoirement être rédigé pour justifier la demande. L'agent peut porter des observations s'il le souhaite.
 
@@ -194,11 +194,11 @@ Si l'agent est concerné par un changement d'échelon ou de classe dans l'année
 
 ---
 
-## Questions proposées pour la préparation de l'entretien
+### Questions proposées pour la préparation de l'entretien
 
 *Ces questions ne sont qu'un outil de réflexion. Lisez ce document avant l'entretien pour profiter au mieux de ce temps de dialogue et d'écoute.*
 
-### 1. Bilan de l'année écoulée
+#### 1. Bilan de l'année écoulée
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -212,7 +212,7 @@ Si l'agent est concerné par un changement d'échelon ou de classe dans l'année
 | — j'aurais aimé faire… pourquoi ? | |
 | — qu'est-ce qui m'a empêché de faire ? Pourquoi ? | |
 
-### 2. Fixation des objectifs
+#### 2. Fixation des objectifs
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -221,7 +221,7 @@ Si l'agent est concerné par un changement d'échelon ou de classe dans l'année
 | | — Quels nouveaux objectifs j'envisage de lui proposer ? |
 | | — Comment ont été atteints les objectifs ? |
 
-### 3. Fixation des moyens
+#### 3. Fixation des moyens
 
 | Évalué | Évaluateur |
 |--------|-----------|
@@ -232,7 +232,7 @@ Si l'agent est concerné par un changement d'échelon ou de classe dans l'année
 | — d'un matériel adéquat ? | — De quel matériel aurait-il besoin ? |
 | — d'horaires mieux adaptés à ma mission ? | |
 
-### 4. Possibilité d'évolution
+#### 4. Possibilité d'évolution
 
 | Évalué | Évaluateur |
 |--------|-----------|

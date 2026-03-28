@@ -1,10 +1,10 @@
-# Fiche thématique — L'entretien annuel d'échange : les bonnes pratiques
+## Fiche thématique — L'entretien annuel d'échange : les bonnes pratiques
 
 *Ressources humaines et fonction publique — Gouvernement de la Nouvelle-Calédonie*
 
 ---
 
-## 1 — Qu'est-ce que l'EAE ?
+### 1 — Qu'est-ce que l'EAE ?
 
 C'est avant tout :
 
@@ -20,9 +20,9 @@ C'est avant tout :
 
 ---
 
-## 2 — Pour le manager
+### 2 — Pour le manager
 
-### Organisation de l'entretien
+#### Organisation de l'entretien
 
 - Annoncer le lancement de la campagne des EAE.
 - Redonner du sens à l'entretien, répondre aux questions des agents et inciter à la préparation de ce moment important.
@@ -30,7 +30,7 @@ C'est avant tout :
 - Prévoir un temps d'échange **suffisamment long (1h minimum)**. Il est possible de le faire en plusieurs fois (ex. : un premier entretien pour le bilan de l'année écoulée, un deuxième pour fixer le plan d'action et échanger sur les évolutions professionnelles).
 - Réserver une salle calme, propice au dialogue, et prendre toutes les dispositions pour ne pas être dérangé (téléphone, visiteurs…).
 
-### Préparation de l'entretien
+#### Préparation de l'entretien
 
 - Prendre connaissance des EAE établis les années précédentes.
 - Lister les points essentiels à aborder grâce aux éléments recueillis tout au long de l'année (suivi d'activité, points marquants, résultats obtenus, axes d'amélioration…).
@@ -39,7 +39,7 @@ C'est avant tout :
 - Prendre connaissance ou relire le guide pour établir l'EAE dans l'application MPRH *(disponible sur MPRH dans "documents en ligne")*.
 - Suivre les ateliers dédiés à la réalisation des EAE organisés par le SAIDRH de la DRHFPNC.
 
-### Pendant l'entretien
+#### Pendant l'entretien
 
 - Garantir un cadre serein (transfert d'appels téléphoniques, portable éteint ou en mode silencieux, encourager la libre expression dans le respect mutuel).
 - Soigner l'accueil et chercher à créer un climat de confiance et de dialogue favorable à l'entretien.
@@ -54,7 +54,7 @@ C'est avant tout :
 
 > **À noter :** L'agent peut apporter ses propres observations et demander la révision de son EAE dans un **délai de deux mois** suivant sa notification. La signature de l'EAE par l'agent contestataire ne vaut pas pour autant un accord ou une approbation.
 
-### Finalisation de l'entretien
+#### Finalisation de l'entretien
 
 - Compléter les différentes parties de l'EAE dans MPRH avec les informations échangées et convenues pendant l'entretien.
 - Mettre le document dans le circuit officiel et transmettre le document retourné signé par la direction à l'agent. Il est **indispensable** de signer les EAE par toutes les parties concernées, même en cas de désaccord, et de remettre un exemplaire à l'agent.
@@ -62,7 +62,7 @@ C'est avant tout :
 
 > ⚠️ **Ne pas oublier** de procéder à la "validation" (étape finale) dans MPRH lorsque l'agent aura cliqué sur "validez" (une notification vous sera transmise par e-mail).
 
-### Les erreurs à éviter
+#### Les erreurs à éviter
 
 - Fixer l'entretien en période de surchauffe.
 - Négliger la préparation.
@@ -72,9 +72,9 @@ C'est avant tout :
 
 ---
 
-## 3 — Pour l'agent
+### 3 — Pour l'agent
 
-### Préparation de l'entretien
+#### Préparation de l'entretien
 
 *(Au moins une semaine avant la date fixée)*
 
@@ -91,7 +91,7 @@ C'est avant tout :
 
 > **À noter :** Vous pouvez apporter vos propres observations et demander la révision de votre EAE dans un **délai de deux mois** suivant sa notification. La signature de l'EAE par vos soins ne vaut pas pour autant un accord ou une approbation.
 
-### Finalisation de votre entretien
+#### Finalisation de votre entretien
 
 - Compléter le document officiel sous MPRH avec les informations échangées et convenues pendant l'entretien.
 
