@@ -10,6 +10,6 @@ identifier:
   text: 
 publisher:  opt-nc/template-eae
 rights: © 2022 opt-nc/template-eae, CC BY-NC
-stylesheet: epub.css
-cover-image: cover.jpg
+stylesheet: etc/epub.css
+cover-image: etc/cover.png
 ...

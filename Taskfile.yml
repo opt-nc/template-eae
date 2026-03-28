@@ -1,0 +1,74 @@
+version: '3'
+
+vars:
+  BOOKNAME: mon-EAE
+  DIST: dist
+  SRC: src
+  # Source files
+  SOURCES: >-
+    {{.SRC}}/title.yml
+    {{.SRC}}/ressources.md
+    {{.SRC}}/00_identification_agent.md
+    {{.SRC}}/01_entete.md
+    {{.SRC}}/02_resume.md
+    {{.SRC}}/03_fiche-de-poste.md
+    {{.SRC}}/04_tenue-maitrise-du-poste.md
+    {{.SRC}}/05_appreciation_competences.md
+    {{.SRC}}/06_autoevaluation.md
+    {{.SRC}}/07_plan-action.md
+    {{.SRC}}/08_evolution-professionnelle.md
+    {{.SRC}}/09_synthese-evaluation.md
+    {{.SRC}}/10_avancement.md
+    {{.SRC}}/99_annexes.md
+    assets/notice_eae.md
+
+tasks:
+  default:
+    desc: Génère tous les formats supportés dans le répertoire dist/
+    cmds:
+      - task: html
+      - task: epub
+      - task: pdf
+      - task: docx
+
+  prep:
+    internal: true
+    cmds:
+      - mkdir -p {{.DIST}}
+
+  html:
+    desc: Generate an HTML file in dist/
+    deps: [prep]
+    cmds:
+      - pandoc -t html --section-divs --standalone -c etc/epub.css -o {{.DIST}}/{{.BOOKNAME}}.html {{.SOURCES}}
+    generates:
+      - "{{.DIST}}/{{.BOOKNAME}}.html"
+
+  epub:
+    desc: Generate an EPUB file in dist/
+    deps: [prep]
+    cmds:
+      - pandoc --epub-metadata={{.SRC}}/title.yml --epub-cover-image=etc/cover.png --toc -o {{.DIST}}/{{.BOOKNAME}}.epub {{.SOURCES}}
+    generates:
+      - "{{.DIST}}/{{.BOOKNAME}}.epub"
+
+  pdf:
+    desc: Generate a PDF file in dist/
+    deps: [prep]
+    cmds:
+      - pandoc --toc --pdf-engine=xelatex -o {{.DIST}}/{{.BOOKNAME}}.pdf {{.SOURCES}}
+    generates:
+      - "{{.DIST}}/{{.BOOKNAME}}.pdf"
+
+  docx:
+    desc: Generate a Word file in dist/
+    deps: [prep]
+    cmds:
+      - pandoc --toc -o {{.DIST}}/{{.BOOKNAME}}.docx {{.SOURCES}}
+    generates:
+      - "{{.DIST}}/{{.BOOKNAME}}.docx"
+
+  clean:
+    desc: Delete the dist/ directory
+    cmds:
+      - rm -rf {{.DIST}}
