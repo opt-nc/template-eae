@@ -1,15 +1,21 @@
 ---
-title: "EAE Prenom NOM: Préparation de l'EAE"
+title: "EAE John DOE 2025"
+subtitle: "Campagne EAE 2025 - Préparation de l'EAE"
+header-includes: |
+  \usepackage{graphicx}
+  \usepackage{titling}
+  \pretitle{\begin{center}\includegraphics[width=0.7\textwidth]{etc/cover.png}\\[2cm]\LARGE}
+  \posttitle{\end{center}}
 creator:
 - role: author
-  text: VOTRE_NOM
+  text: John DOE
 - role: editor
-  text: NOM_EVALUATEUR
+  text: opt-nc/template-eae
 identifier:
 - scheme: 
   text: 
 publisher:  opt-nc/template-eae
-rights: © 2022 opt-nc/template-eae, CC BY-NC
+rights: © 2026 opt-nc/template-eae, CC BY-NC
 stylesheet: etc/epub.css
 cover-image: etc/cover.png
 ...
